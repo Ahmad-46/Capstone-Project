@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+ul{
+    list-style-type: none;
+}
+.topnav{
+    overflow: hidden;
+    background-color: blue;
+}
+
+.topnav a{
+    color: white;
+    text-decoration: none;
+    float: left;
+    text-align: center;
+    padding: 15px 15px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.topnav a:hover{
+    background-color: bisque;
+    font-size: 22px;
+    border-radius: 15px;
+}
+.topnav a.active{
+    background-color: blue;
+    color: aliceblue;
+}
+section {
+    position: relative;
+    max-width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    overflow: hidden;
+}
