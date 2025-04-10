@@ -56,6 +56,24 @@ ul{
 .mySlides:nth-child(3) {
     animation-delay: 10s;
 }
+.mySlides:nth-child(4) {
+    animation-delay: 15s;
+}
+.mySlides:nth-child(5) {
+    animation-delay: 20s;
+}
+.mySlides:nth-child(6) {
+    animation-delay: 25s;
+}
+.mySlides:nth-child(7) {
+    animation-delay: 30s;
+}
+.mySlides:nth-child(8) {
+    animation-delay: 35s;
+}
+.mySlides:nth-child(9) {
+    animation-delay: 40s;
+}
 
 @keyframes carousel {
     0% { opacity: 0; }
