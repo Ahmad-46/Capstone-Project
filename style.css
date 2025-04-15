@@ -83,4 +83,43 @@ ul{
 .hero h1 {
     font-size: 2.5rem;
     margin-bottom: 1rem;
+
+}
+
+hero p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: o auto;
+
+}
+
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+
+}
+
+.feature-card {
+    flex: 1 1 300px;
+    background-color: blanchedalmond;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px black;
+}
+.feature-card h3 {
+    color: blue;
+    margin-bottom: 0.5rem;
+
+}
+about h2 {
+    color: beige;
+}
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
 }
