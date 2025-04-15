@@ -83,7 +83,6 @@ ul{
 .hero h1 {
     font-size: 2.5rem;
     margin-bottom: 1rem;
-
 }
 
 hero p {
@@ -113,8 +112,8 @@ hero p {
     margin-bottom: 0.5rem;
 
 }
-about h2 {
-    color: beige;
+.about h2 {
+    color: rgb(235, 235, 13);
 }
 footer {
     background-color: blue;
