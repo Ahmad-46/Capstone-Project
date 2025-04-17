@@ -18,6 +18,7 @@ ul{
     padding: 10px 30px 15px 15px;
     font-size: 20px;
     text-transform: uppercase;
+    margin-left: 5rem;
 }
 .topnav a:hover{
     background-color: bisque;
@@ -120,5 +121,12 @@ footer {
     color: white;
     text-align: center;
     padding: 1rem 0;
-    margin-top: 2rem;
+    margin-top: 5rem;
+}
+a {
+   margin-left: 15rem;
+   color: red;
+}
+body {
+    background-color: aqua;
 }
